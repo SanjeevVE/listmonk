@@ -9,7 +9,7 @@ address = "localhost:9000"
 [db]
 host = "listmonk-db.c3c66we2cn2t.ap-south-1.rds.amazonaws.com"
 port = 5432
-user = "postgress"
+user = "postgres"
 password = "leanfolks1$"
 
 # Ensure that this database has been created in Postgres.
